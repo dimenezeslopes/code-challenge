@@ -14,6 +14,8 @@ Defina 3 KBF que você considere mais importante para o négocio.
 
 * KBF = Key Business Flow, ou seja, os fluxos considerados mais importantes para nosso negócio.
 
+
+
 ### 2. Crie os planos de testes:
 
 Criei um plano de teste para cada um dos 3 KBF definidos na etapa anterior.
